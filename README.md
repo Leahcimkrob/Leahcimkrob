@@ -1,7 +1,7 @@
 Hi there 👋,
 
-My name is Michael Bork, I come from Oberhausen (Germany) and am currently taking part in a retraining course to become an IT specialist in application development at ComCave College.
+My name is Michael Bork, I’m from Oberhausen, Germany. I recently completed my retraining as an IT specialist for application development at ComCave College and am currently looking for a job in the IT field.
 
-Since I don't always want to be dependent on external developers for my server, this is the best step for me.
+I originally started learning software development because I wanted to become less dependent on external developers for my own server projects.
 
-I'm here to learn, get support and help.
+I’m here to learn, share knowledge, get support and hopefully help others along the way.
